@@ -749,8 +749,9 @@ summary .ri-arrow-drop-down-line:active {
     padding: 1vw;
     border-radius: 100px;
 }
-.ri-arrow-right-up-line{
+#green-round .ri-arrow-right-up-line{
     float: right;
+    margin-left: 55%;
     font-size: 20px;
 }
 #green-round p{
