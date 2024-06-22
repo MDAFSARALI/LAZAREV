@@ -101,6 +101,7 @@ nav button svg {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    position: relative;
 }
 #page1 h1 {
     font-size:8vw;
@@ -763,3 +764,170 @@ summary .ri-arrow-drop-down-line:active {
 #green-round:hover{
     transform: scale(1.1);
 }
+#page9{
+    min-height: 100vh;
+    width:100%;
+    background-color: #fff;
+    padding: 10vh 10vw;
+}
+#page9>h1{
+    font-size: 5.5vw;
+    color: #000;
+    padding-left: 23vw;
+    padding-right: 5vw;
+    line-height: 5.8vw;
+    padding-bottom: 6vh;
+    border-bottom: 1px solid #dadada;
+}
+#page9-content{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-top: 8vh;
+}
+#page9-content #right-9{
+    width: 70%;
+}
+#page9-content #right-9 p{
+    font-size: 1.5vw;
+    color: black;
+    margin-bottom: 5vh;
+    width: 80%;
+}
+#blue-btn{
+    background-color:#4f5bff;
+    width: 15vw;
+    height: 3.5vw;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#blue-btn h4{
+    position: absolute;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 0.85vw;
+}
+#blue-btn h4 i{
+    font-size: 1.1vw;
+    font-weight: 100;
+    margin-left: 0.5vw;
+}
+#page9-bottom{
+    height: 44vh;
+    width: 100%;
+    /* background-color: red; */
+    border-top: 1px solid #dadada;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    justify-content: center;
+}
+#btm9-part1{
+    border-right: 1px solid#dadada;
+    width: 30%;
+    height: 100%;
+}
+#btm9-part2{
+    border-right: 1px solid#dadada;
+    width: 28%;
+    height: 100%;
+}
+#btm9-part3{
+    border-right: 1px solid#dadada;
+    width: 20%;
+    height: 100%;
+}
+#btm9-part4{
+    border-right: 1px solid#dadada;
+    width: 20%;
+    height: 100%;
+}
+#btm9-part5{
+    width: 15%;
+    height: 100%;
+}
+.btm9-parts{
+    padding: 3vh 0.6vw;
+}
+.btm9-parts h5{
+    color: black;
+    font-weight: 500;
+    font-size: 0.9vw;
+    margin-bottom: 4vh;
+}
+.btm9-parts h4{
+    background-color: #111;
+    width: 75%;
+    padding: 5px 10px;
+    margin-bottom: 0.3vh;
+    border-radius: 50px;
+    font-size: 0.85vw;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}
+.btm9-parts h4 span{
+    background-color: #333;
+    padding: 0.5vw;
+    border-radius: 50px;
+    display: flex;
+    width: 1.5vw;
+    height: 1.5vw;
+    align-items: center;
+    justify-content: center;
+    margin-right: 1vw;
+}
+#btm9-part2 h4:nth-child(2){
+    transform: translateX(0);
+}
+#btm9-part2 h4:nth-child(3){
+    transform: translateX(10%);
+}
+#btm9-part2 h4:nth-child(4){
+    transform: translateX(20%);
+}
+#btm9-part2 h4:nth-child(5){
+    transform: translateX(30%);
+}
+#btm9-part2 h4:nth-child(6){
+    transform: translateX(40%);
+}
+#btm9-part2 h4:nth-child(7){
+    transform: translateX(50%);
+}
+#btm9-part3 h4:nth-child(2){
+    transform: translateX(0);
+}
+#btm9-part3 h4:nth-child(3){
+    transform: translateX(15%);
+}
+#btm9-part4 h4:nth-child(2){
+    transform: translateX(0);
+}
+#btm9-part4 h4:nth-child(3){
+    transform: translateX(15%);
+}
+#btm9-part4 h4:nth-child(4){
+    transform: translateX(30%);
+}
+#page10{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
