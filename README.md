@@ -1,6 +1,7 @@
 # About
 This is just a frontend project which is being cloned from the lazarev.agency [https://www.lazarev.agency/] .
 In this project i have used HTML , CSS ,JavaScript and Gsap 
+This website is now not responsive . Hopefully i am make it responsive in future whenever i will get time.
 # Credit
 The all credit goes to Sheriyans Coding School and specially thankful to # Sarthak sharma # Who is the mentor for recreacting this amazing website .
 
