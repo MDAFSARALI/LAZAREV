@@ -426,7 +426,10 @@ nav button svg {
  font-weight: 400;
 font-family: cursive;
 position: absolute;
+justify-items: center;
+align-items: center;
 }
+
 #features_digital_right{
     max-width: 82vw;
     color: black;
@@ -697,6 +700,7 @@ summary .ri-arrow-drop-down-line:active {
     background-color: #1f1f1f;
     padding: 1vw;
     border-radius: 5px;
+    overflow: auto;
 }
 .page8-box1 .upper{
     font-size: 2vw;
@@ -726,6 +730,7 @@ summary .ri-arrow-drop-down-line:active {
     background-color: #1f1f1f;
     padding: 1vw;
     border-radius: 5px;
+    overflow: auto;
 }
 .page8-box2 .upper{
     font-size: 2vw;
@@ -916,6 +921,29 @@ summary .ri-arrow-drop-down-line:active {
     height: 100vh;
     width: 100%;
     background-color: black;
+    justify-items: center;
+    align-items: center;
+    font: 600;
+}
+#page10-content{
+    height: 30vh;
+    width: 30vw;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: auto;
+}
+#page10 h1{
+    color: yellowgreen;
+    justify-items: center;
+    align-items: center;
+    margin: auto;
+}
+#page10 h2{
+    color: brown;
+    justify-items: center;
+    align-items: center;
+    margin-left: auto;
 }
 
 
